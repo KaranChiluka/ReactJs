@@ -1,0 +1,53 @@
+
+h1{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-weight: 500;
+
+}
+p{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  font-weight: 600;
+  width: 100px;
+  margin-left: 150px;
+  border-radius: 20px;
+  background-color: white;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.mib{
+  font-size: large;
+  color: white;
+  background-color: green;
+  padding-top: 3px;
+  border-radius: 10%;
+}
+.mdb{
+  font-size: large;
+  color: white;
+  background-color: red;
+  margin-left: 20px;
+  padding-top: 3px;
+  border-radius: 10%;
+}
+.app{
+  width: 400px;
+  border: 10px solid green;
+  margin: auto;
+  margin-top: 200px;
+  border-radius: 10px;
+  background-color: black;
+}
+
+
